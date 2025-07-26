@@ -1,0 +1,5 @@
+home = C:\Users\Bhanu Bisht\AppData\Local\Programs\Python\Python311
+include-system-site-packages = false
+version = 3.11.0
+executable = C:\Users\Bhanu Bisht\AppData\Local\Programs\Python\Python311\python.exe
+command = C:\Users\Bhanu Bisht\AppData\Local\Programs\Python\Python311\python.exe -m venv C:\Users\Bhanu Bisht\OneDrive\Desktop\mini project\.venv
